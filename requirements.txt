@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+mlxtend
+ydata-profiling
+scipy
+xgboost
+ipywidgets
+scikit-optimize
+
